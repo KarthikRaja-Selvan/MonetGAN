@@ -30,13 +30,11 @@
         <pre><code>git clone https://github.com/yourusername/MonetGAN.git
 cd MonetGAN</code></pre>
     </li>
-</ol>
-<ol>
+
     <li>Install dependencies:
         <pre><code>pip install -r requirements.txt</code></pre>
     </li>
-</ol>
-<ol>
+
     <li>Run the notebook:
         <p>Open the <code>MonetGAN.ipynb</code> notebook in Jupyter and run through the cells to train the model and generate Monet-style artwork.</p>
     </li>
